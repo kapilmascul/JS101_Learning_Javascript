@@ -14,4 +14,4 @@ let detectPrime=(num)=>{
         console.log("Not a PrimeNo")
       }
     }
-    detectPrime(59);
+    detectPrime(79);
